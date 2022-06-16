@@ -10,7 +10,7 @@
 ---
 
 # digitRoot
-##### *Create a function that takes a number and returns one digit that is the result of summing all the digits of the input number. When the sum of the digits consists of more than one digit, repeat summing until you get one digit.* [Digits Sum Root](https://edabit.com/challenge/KgR2JhEuGD7onbMLx)
+> ##### *"Create a function that takes a number and returns one digit that is the result of summing all the digits of the input number. When the sum of the digits consists of more than one digit, repeat summing until you get one digit."* <[Digits Sum Root](https://edabit.com/challenge/KgR2JhEuGD7onbMLx)>
 ---
 
 ```java
